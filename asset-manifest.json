@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bookmark-landing-page/static/css/main.8140b856.css",
+    "main.css": "/bookmark-landing-page/static/css/main.72d20982.css",
     "main.js": "/bookmark-landing-page/static/js/main.5576d622.js",
     "static/media/remixicon.svg?t=1690730386070": "/bookmark-landing-page/static/media/remixicon.db77551b8efc76571c4f.svg",
     "static/media/remixicon.eot?t=1690730386070": "/bookmark-landing-page/static/media/remixicon.53ec05edb4b6864b45b1.eot",
@@ -19,11 +19,11 @@
     "static/media/icon-twitter.svg": "/bookmark-landing-page/static/media/icon-twitter.dde79e7edd3892319de2ee22ea7ca39d.svg",
     "static/media/icon-facebook.svg": "/bookmark-landing-page/static/media/icon-facebook.8b45ba94b5f75f0d38a9bbcc11df55c2.svg",
     "static/media/logo-opera.svg": "/bookmark-landing-page/static/media/logo-opera.ff14e4763945338fe002017c72e7e597.svg",
-    "main.8140b856.css.map": "/bookmark-landing-page/static/css/main.8140b856.css.map",
+    "main.72d20982.css.map": "/bookmark-landing-page/static/css/main.72d20982.css.map",
     "main.5576d622.js.map": "/bookmark-landing-page/static/js/main.5576d622.js.map"
   },
   "entrypoints": [
-    "static/css/main.8140b856.css",
+    "static/css/main.72d20982.css",
     "static/js/main.5576d622.js"
   ]
 }
