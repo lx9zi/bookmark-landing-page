@@ -11,8 +11,6 @@
 }
 
 
-
-
 :root {
   --SoftBlue: hsl(231, 69%, 60%);
   --SoftRed: hsl(0, 94%, 66%);
@@ -23,6 +21,10 @@
 
 ::-webkit-scrollbar {
   width: 0;
+}
+
+body {
+  overflow-x: hidden;
 }
 
 img {
@@ -68,7 +70,7 @@ section:not(:first-child) {
   border-radius: 30% 0 0 30%;
   position: absolute;
   top: 50%;
-  right: -2.7em;
+  right: -2em;
   z-index: -1;
   overflow: hidden;
 }
@@ -83,7 +85,7 @@ section:not(:first-child) {
 }
 
 .container {
-  max-width: 1400px;
+  max-width: 1300px;
   margin: 0 auto;
 }
 
